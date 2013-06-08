@@ -6,7 +6,7 @@
 
 ## usage
 
-	you may no start your app using argument using the format --key=value or --key
+	you may start your app using argument using the format --key=value or --key
 	example: node . --port=2345 --trace-http-request
 
 
