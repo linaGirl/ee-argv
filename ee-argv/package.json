@@ -1,0 +1,24 @@
+{
+      "name":           "ee-argv"
+    , "description":    "dead simple commandline parser"
+    , "version":        "0.1.0"
+    , "homepage":       "https://github.com/eventEmitter/ee-argv"
+    , "author":         "Michael van der Weg <michael@eventemitter.com> (http://eventemitter.com/)" 
+    , "repository": {
+        "url":          "https://github.com/eventEmitter/ee-argv"
+    }
+    , "engines": {
+        "node":         "*"
+    }
+    , "bugs": {
+        "url":          "https://github.com/eventEmitter/ee-argv
+        /issues"
+    }
+    , "dependencies": {
+          "ee-class":   "*"
+        , "ee-event":   "*"
+        , "ee-log":     "*"
+    }
+    , "devDependencies": {}
+    , "optionalDependencies": {}
+}
