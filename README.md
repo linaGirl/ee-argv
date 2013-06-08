@@ -6,10 +6,10 @@
 
 ## usage
 
-	you may start your app using argument using the format --key=value or --key
-	example: node . --port=2345 --trace-http-request
+you may start your app using arguments using the format --key=value or --key
+	
 
-
+	// node . --port=2345 --trace-http-request
 
 	var argv = require( "ee-argv" );
 
