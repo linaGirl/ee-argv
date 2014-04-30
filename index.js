@@ -1,5 +1,4 @@
 
-	console.log(process.argv);
 	var   parsed = null
 		, parse;
 
@@ -12,7 +11,7 @@
 			return item.length > 0; 
 		}).forEach(function(item) {
 			var reg = /([^ =]+)(?: |=)(.+)/gi.exec(item.trim());
-			
+
 			if (reg) parsed[reg[1].trim()] = reg[2];
 			else parsed[item.trim()] = null;
 		}.bind(this));
