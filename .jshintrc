@@ -1,0 +1,13 @@
+{
+      "es5"                     : true
+    , "freeze"                  : true
+    , "latedef"                 : true
+    , "noarg"                   : true
+    , "notypeof"                : true
+    , "undef"                   : true
+    , "unused"                  : true
+    , "esnext"                  : true
+    , "laxcomma"                : true
+    , "node"                    : true
+    , "predef"                  : ["define"]
+}
