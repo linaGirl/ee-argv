@@ -30,7 +30,7 @@
 
 
 
-	Array.prototype.slice.call(process.argv, 2).forEach((item) => { log(item);
+	Array.prototype.slice.call(process.argv, 2).forEach((item) => {
 		if (/^\s*--([^=]+)=(.+)\s*$/gi.test(item)) {
 			let result = /^\s*--([^=]+)=(.+)\s*$/gi.exec(item);
 
