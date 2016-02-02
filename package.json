@@ -1,7 +1,7 @@
 {
       "name"                        : "ee-argv"
     , "description"                 : "A simple commandline arguments parser"
-    , "version"                     : "1.0.1"
+    , "version"                     : "1.0.2"
     , "homepage"                    : "https://github.com/eventEmitter/ee-argv"
     , "author"                      : "Michael van der Weg <michael@joinbox.com> (http://joinbox.com/)" 
     , "license"                     : "MIT"
