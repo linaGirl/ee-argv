@@ -1,5 +1,7 @@
 # ee-argv
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/eventEmitter/ee-argv.svg)](https://greenkeeper.io/)
+
 A simple and fast commandline arguments parser
 
 ## installation
