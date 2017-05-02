@@ -16,10 +16,10 @@
         "url"                       : "https://github.com/eventEmitter/ee-argv/issues"
     }
     , "dependencies": {
-        "ee-log"                    : "0.3.x"
+        "ee-log"                    : "~2.0.2"
     }
     , "devDependencies": {
-          "mocha"                   : "2.x"
+          "mocha"                   : "^3.3.0"
     }
     , "optionalDependencies": {}
     , "keywords"                    : [ "argv", "commandline", "parser" ]
